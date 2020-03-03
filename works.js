@@ -1,4 +1,4 @@
-works: [{
+[{
     name: 'Jagonews24.com',
     type: 'News Portal',
     url: 'https://jagonews24.com/'
