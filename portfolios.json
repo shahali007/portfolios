@@ -1,4 +1,4 @@
-portfolios: [{
+    {
         id: 1,
         name: 'Jagonews24.com',
         type: 'News Portal',
@@ -136,4 +136,3 @@ portfolios: [{
         type: 'News Portal',
         url: 'http://www.shazulinews.com/'
     }
-]
