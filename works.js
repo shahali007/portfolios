@@ -22,5 +22,14 @@
         "name": "Banglanews24.com",
         "type": "News Portal",
         "url": "https://www.banglanews24.com/"
+    },
+    {
+        "name": "Maxxcola",
+        "type": "Company Website",
+        "url": "http://maxxcola.com/"
+    }, {
+        "name": "Property Development Ltd",
+        "type": "Company Website",
+        "url": "http://www.propertydevelopmentltd.com/"
     }
 ]
