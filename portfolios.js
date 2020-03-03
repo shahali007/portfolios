@@ -113,4 +113,5 @@
         name: 'Shazulinews.com',
         type: 'News Portal',
         url: 'http://www.shazulinews.com/'
+
     }
