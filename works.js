@@ -10,6 +10,11 @@
       "url":"https://www.jagojobs.com/"
    },
    {
+      "name":"Fyruz",
+      "type":"Education Services",
+      "url":"https://www.shahali.me/backup/projects/fyruz/"
+   },
+   {
       "name":"Jago FM 94.4",
       "type":"Online FM Radio Website",
       "url":"http://jago.fm/"
