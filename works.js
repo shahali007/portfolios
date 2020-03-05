@@ -19,6 +19,7 @@
       "type":"Online FM Radio Website",
       "url":"http://jago.fm/"
    },
+   
    {
       "name":"Surecell BD",
       "type":"Medical Website",
@@ -33,6 +34,11 @@
       "name":"Digital Bangladesh Mela 2020",
       "type":"Conference website",
       "url":"https://www.digitalbangladeshmela.org.bd/"
+   },
+   {
+      "name":"Bangladesh Times(Mobile version)",
+      "type":"News portal",
+      "url":"http://cloudlylab.com/projects/bangladesh-times/"
    },
    {
       "name":"71news",
