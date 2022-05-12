@@ -1,10 +1,5 @@
 [
    {
-      "name":"Jexca Sandbox",
-      "type":"Alumnai Portal",
-      "url":"#"
-   },
-   {
       "name":"Jagonews24.com",
       "type":"News Portal",
       "url":"https://jagonews24.com/"
@@ -36,44 +31,14 @@
       "url":"http://hashtag.com.bd/"
    },
    {
-      "name":"Digital Bangladesh Mela 2020",
-      "type":"Conference website",
-      "url":"https://www.digitalbangladeshmela.org.bd/"
-   },
-   {
       "name":"Bangladesh Times(Mobile version)",
       "type":"News portal",
       "url":"http://cloudlylab.com/projects/bangladesh-times/"
    },
    {
-      "name":"71news",
-      "type":"News portal",
-      "url":"http://71news.net/"
-   },
-   {
-      "name":"The BD Press",
-      "type":"News portal",
-      "url":"http://thebdpress.com/"
-   },
-   {
-      "name":"Red Sparrow Digital",
-      "type":"Digital Marketing Website",
-      "url":"https://redsparrowdigital.com/draft"
-   },
-   {
-      "name":"Broadband247",
-      "type":"ISP Website",
-      "url":"http://broadband247.net/"
-   },
-   {
       "name":"Doshdiganta.com",
       "type":"News Portal",
       "url":"https://www.doshdiganta.com/"
-   },
-   {
-      "name":"Chhabiwala",
-      "type":"Personal Website",
-      "url":"https://chhabiwala.com/"
    },
    {
       "name":"Samhati",
@@ -114,21 +79,6 @@
       "name":"Dhaka Prakash",
       "type":"News Portal",
       "url":"http://dhakaprokash24.com/"
-   },
-   {
-      "name":"Provat Feri",
-      "type":"News Portal in Australia",
-      "url":"http://provatferi.com.au/"
-   },
-   {
-      "name":"Multicultural Society",
-      "type":"Australian community based website",
-      "url":"http://multiculturalsociety.org/"
-   },
-   {
-      "name":"Mutual Homes",
-      "type":"Land & Property website in Australia",
-      "url":"http://mutualhomes.com.au/"
    },
    {
       "name":"Newsnarayangang24.net",
