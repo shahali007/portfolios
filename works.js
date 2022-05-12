@@ -106,11 +106,6 @@
       "url":"https://www.banglanews24.com/"
    },
    {
-      "name":"Shazulinews.com",
-      "type":"News Portal",
-      "url":"http://www.shazulinews.com/"
-   },
-   {
       "name":"The Daily Post",
       "type":"News Portal",
       "url":"#"
