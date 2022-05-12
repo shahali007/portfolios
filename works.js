@@ -1,5 +1,10 @@
 [
    {
+      "name":"Jexca",
+      "type":"Allumnai Portal",
+      "url":"#"
+   },
+   {
       "name":"Jagonews24.com",
       "type":"News Portal",
       "url":"https://jagonews24.com/"
