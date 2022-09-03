@@ -24,17 +24,6 @@
       "type":"Online FM Radio Website",
       "url":"http://jago.fm/"
    },
-   
-//    {
-//       "name":"Surecell BD",
-//       "type":"Medical Website",
-//       "url":"https://surecellbd.com/"
-//    },
-//    {
-//       "name":"Hashtag",
-//       "type":"ISP website",
-//       "url":"http://hashtag.com.bd/"
-//    },
    {
       "name":"Bangladesh Times(Mobile version)",
       "type":"News portal",
