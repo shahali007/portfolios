@@ -25,11 +25,11 @@
       "url":"http://jago.fm/"
    },
    
-   {
-      "name":"Surecell BD",
-      "type":"Medical Website",
-      "url":"https://surecellbd.com/"
-   },
+//    {
+//       "name":"Surecell BD",
+//       "type":"Medical Website",
+//       "url":"https://surecellbd.com/"
+//    },
    {
       "name":"Hashtag",
       "type":"ISP website",
